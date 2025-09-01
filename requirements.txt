@@ -1,0 +1,9 @@
+streamlit
+qdrant-client
+beautifulsoup4
+requests
+python-dotenv
+langchain
+langchain-qdrant
+langchain-google-genai
+langchain-community
